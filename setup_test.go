@@ -3,7 +3,7 @@ package admin_test
 import (
 	"net/http/httptest"
 
-	"github.com/jinzhu/gorm"
+	"github.com/jungju/gorm"
 	"github.com/qor/admin"
 	. "github.com/qor/admin/tests/dummy"
 )

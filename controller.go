@@ -10,7 +10,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/jinzhu/gorm"
+	"github.com/jungju/gorm"
 	"github.com/qor/responder"
 )
 

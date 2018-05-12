@@ -1,9 +1,9 @@
 package admin
 
 import (
-	"github.com/qor/qor"
-	"github.com/qor/qor/resource"
-	"github.com/qor/qor/utils"
+	"github.com/jungju/qor"
+	"github.com/jungju/qor/resource"
+	"github.com/jungju/qor/utils"
 )
 
 type RichEditorConfig struct {

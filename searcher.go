@@ -9,10 +9,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/jinzhu/gorm"
-	"github.com/qor/qor"
-	"github.com/qor/qor/resource"
-	"github.com/qor/qor/utils"
+	"github.com/jungju/gorm"
+	"github.com/jungju/qor"
+	"github.com/jungju/qor/resource"
+	"github.com/jungju/qor/utils"
 )
 
 // PaginationPageCount default pagination page count

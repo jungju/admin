@@ -29,9 +29,9 @@ import (
     "fmt"
     "net/http"
 
-    "github.com/jinzhu/gorm"
+    "github.com/jungju/gorm"
     _ "github.com/mattn/go-sqlite3"
-    "github.com/qor/qor"
+    "github.com/jungju/qor"
     "github.com/qor/admin"
 )
 
@@ -180,7 +180,7 @@ To translate admin interface to a new language, you could use `i18n` [https://gi
 
 ## Working with a Resource
 
-Every QOR Admin Resource needs a [GORM-backend](https://github.com/jinzhu/gorm) model. Once you have defined the model you can create a QOR Admin resource: `Admin.AddResource(&Product{})`
+Every QOR Admin Resource needs a [GORM-backend](https://github.com/jungju/gorm) model. Once you have defined the model you can create a QOR Admin resource: `Admin.AddResource(&Product{})`
 
 Once a resource has been added, QOR Admin will generate the admin interface to manage it, including a RESTFul JSON API.
 
@@ -465,7 +465,7 @@ There are a few plugins created for QOR already, you can find some of them at [h
 ## Live DEMO
 
 * Live Demo [http://demo.getqor.com/admin](http://demo.getqor.com/admin)
-* Source Code of Live Demo [https://github.com/qor/qor-example](https://github.com/qor/qor-example)
+* Source Code of Live Demo [https://github.com/jungju/qor-example](https://github.com/jungju/qor-example)
 
 ## Q & A
 

@@ -5,8 +5,8 @@ import (
 
 	"github.com/qor/admin"
 	"github.com/qor/media"
-	"github.com/qor/qor"
-	"github.com/qor/qor/test/utils"
+	"github.com/jungju/qor"
+	"github.com/jungju/qor/test/utils"
 )
 
 // NewDummyAdmin generate admin for dummy app

@@ -8,7 +8,7 @@ import (
 	"strings"
 
 	"github.com/jinzhu/inflection"
-	"github.com/qor/qor/utils"
+	"github.com/jungju/qor/utils"
 	"github.com/qor/roles"
 )
 

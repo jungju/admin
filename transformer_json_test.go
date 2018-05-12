@@ -6,7 +6,7 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/jinzhu/gorm"
+	"github.com/jungju/gorm"
 	"github.com/jinzhu/now"
 	"github.com/qor/admin"
 	. "github.com/qor/admin/tests/dummy"

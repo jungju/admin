@@ -10,8 +10,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/qor/qor"
-	"github.com/qor/qor/utils"
+	"github.com/jungju/qor"
+	"github.com/jungju/qor/utils"
 	"github.com/qor/roles"
 )
 
